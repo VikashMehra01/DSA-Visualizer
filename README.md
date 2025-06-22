@@ -17,7 +17,6 @@ Forked & maintained by **Vikash Mehra** to experiment, extend, and learn by buil
 - React JS
 - JavaScript
 - HTML + CSS
-- Vite (for fast bundling)
 
 ## ✨ Features
 
